@@ -1,0 +1,322 @@
+1. Egy kilobájt több mint egy kibibájt. # H
+2. Egy megabájt kevesebb, mint egy mebibájt. # I
+3. Egy terrabájt kevesebb, mint egy tebibájt. # I
+4. Az ICMP protokoll nem képes a hibákról és azok típusáról tájékoztatást adni. # H
+5. A helyfoglalásos protokoll nem ütközésmentes. # H
+6. A helyfoglalásos protokoll permutálja azállomás számokat. # I
+7. A helyfoglalásos protokoll statikus állomás számokkaldolgozik. # H
+8. A protokoll szabályok halmaza, melyek a ”mit” kérdéssel kapcsolatosak. # H
+9. A protokollokra virtuális kommunikáció jellemző. # I
+10. A protokollokra a valódi kommunikáció jellemző. # H
+11. A szolgáltatás a protokoll implementációjának felel meg. # H
+12. A protokoll a szolgáltatás implementációjának felel meg. # I
+13. A Simplex "megáll és vár" protokoll szinkronizációt használ. # I
+14. A Simplex megáll és vár protokoll nem használ nyugtakeretet. # H
+15. A Simplex összetett protokoll sorszámozza a kereteket. # I
+16. A Simplex összetett protokoll nem sorszámozza a kereteket. # H
+17. A szelektív ismétlő protokoll használ negatív nyugtát is. # I
+18. A „csúszóablakos” protokollnak része a „Piggy-back” technika. # I
+19. A „csúszóablakos” protokoll tartalmaz önálló nyugtakeretet. # I
+20. A visszalépés „n”-el protokoll például a műholdas technikában használatos. # I
+21. Az UDP egy összeköttetés nélküli protokoll. # I
+22. Az UDP fejrészében kötelező az ellenőrző összeg használata # H
+23. Az UDP egy nem megbízható protokoll, nem garantálja az átvitt adatok megérkezését. # I
+24. Az UDP fejrészben található sürgősségi mutató. # H
+25. Az UDP protokoll fejrésze összetettebb, mint a TCP protokoll fejrésze. # H
+26. A TCP protokoll fejrésze egyszerűbb, mint az UDP protokoll fejrésze. # H
+27. Az UDP protokoll nem az operációs rendszer része. # H
+28. A bináris visszaszámlálás protokoll esetén a hosztok sorszáma bináris. # I
+29. A bináris visszaszámlálás protokoll jellemzője a versengési időrés. # I
+30. A bináris visszaszámlálás protokoll a magasabb sorszámú hostoknak kedvez. # I
+31. A BPDU protokoll alapja a MAC cím. # I
+32. A BPDU protokol alapja az IP cím. # H
+33. A versenyhelyzetben lévő protokollok nagy terhelésnél teljesítenek jól. # H
+34. A versenyhelyzetes protokollok kis terhelésnél teljesítenek jól # I
+35. ISP jelentése – Internet Service Provider. # I
+36. Egy ISP-n belül nagyszámú POP található. # I
+37. Az IXP az egyes ISP-ék közötti adatforgalmat biztosítja. # I
+38. Az ISP az egyes IXP-k közötti adatforgalmat biztosítja. # H
+39. A PAN kisebb hálózatot jelent, mint a MAN. # I
+40. A PAN nagyobb hálózat, mint a LAN. # H
+41. A LAN kisebb hálózatot jelent, mint a WAN. # I
+42. A LAN nagyobb hálózatot jelent, mint a WAN. # H
+43. A WAN MAN-okból épül fel # H
+44. A bináris mértékegység rendszer jellemzően memóriaméretre utal. # I
+45. A bináris mértékegység rendszer jellemzően háttértár méretére utal. # H
+46. A bináris rendszer jellemzően háttértár méretre utal. # H
+47. A bináris konvolúciós kódok esetében nincsenek „valamilyen” határok. # I
+48. A bináris konvolúciós kódok esetében nincsenek üzeneti határok. # I
+49. Egy informatikai mérnök számára a sávszélesség egysége a Hz. # H
+50. Egy informatikai mérnök számára a sávszélesség egysége a bit/sec. # I
+51. Egy villamosmérnök számára a sávszélesség egysége a Hz. # I
+52. Egy villamosmérnök számára a sávszélesség egysége a bit/sec. # H
+53. Az interfészekre virtuális kommunikáció jellemző. # H
+54. Az interfészekre valódi kommunikáció jellemző. # I
+55. A 0G mobilhálózat jellemzője az automatikus hívásátadás. # H
+56. A 0G mobilhálózat tisztán analóg megoldású. # I
+57. Az 1G mobilhálózat nem támogatja az automatikus hívásátadást. # H
+58. Az 1G mobilhálózat részben digitális megoldású. # H
+59. Az 1G digitális rendszer. (nem, tiszta analóg rendszer) # H
+60. A 2G mobilhálózat részben digitális megoldású. # H
+61. A 2G mobilhálózat teljesen digitális megoldású. # I
+62. A 2,5G mobilhálózat része UMTS. # H
+63. A 2,5G mobilhálózat része a WAP és az EDGE. # I
+64. A 3G mobilhálózatnak nem része a WCDMA. # H
+65. 3G hálózat része a WiMax. # H
+66. a 4G mobilhálózat része a WiMAX # I
+67. A 4G mobilhálózat része az LTE. # I
+68. Az 5G mobilhálózat legfontosabb tulajdonsága a gyors válaszidő és késleltetés. # I
+69. Az 5G mobilhálózat különböző specifikus frekvenciasávokban azonos feladatokat lát el. # H
+70. Az 5G mobilhálózat adatátviteli sebessége a 4G mobilhálózat adatátviteli sebességének akár tízszerese is lehet. # I
+71. Az adatkapcsolati réteg a szegmenseket továbbítja. # H
+72. Az adatkapcsolati rétegben nincs forgalomszabályzás. # H
+73. Az adatkapcsolati réteg egyik feladata a forgalomszabályozás. # I
+74. A gyakorlati modellben az adatkapcsolati réteg a fizikai réteg alatt található. # H
+75. A gyakorlati modellben az adatkapcsolati réteg a hálózati réteg alatt található. # I
+76. A gyakorlati modellben az adatkapcsolati réteg a hálózati réteg felett található. # H
+77. Az adatkapcsolati rétegben csomagok továbbítódnak. # H
+78. Az adatkapcsolati réteg nem végez forgalomszabályozást. # H
+79. Az adatkapcsolati rétegnek nem a keretezés a fő feladata. # H
+80. A hálózati réteg alapvető feladata az útvonalválasztás. # I
+81. A hálózati rétegben csomagok továbbítódnak. # I
+82. A hálózati rétegben keretek továbbítódnak. # H
+83. A szállítási réteg csomagokat továbbít. # H
+84. A szállítási rétegben szegmensek továbbítódnak. # I
+85. A szálítási rétegben keretek továbbítódnak. # H
+86. A szállítási réteg a feladatát az alatta lévő rétegek kialakításától függően végzi. # I
+87. A gyakorlati modellben a szállítási réteg a hálózati réteg alatt van. # H
+88. A viszonyréteg az OSI modellben található. # I
+89. Az kapcsolat réteg az OSI modellben található. # H
+90. Az internet réteg az OSI modellben található. # H
+91. A megjelenítési réteg az OSI modellben található. # I
+92. A kapcsolati réteg az TCP/IP modellben található. # I
+93. A megjelenítési réteg a(z) TCP/IP modellben található. # H
+94. Összeköttetés nélküli rendszerre példa a postai levélszolgáltatás. # I
+95. Összeköttetés alapú rendszerekben minimum hat szolgáltatási primitív kell. # I
+96. Összeköttetés nélküli rendszerekben minimum hat szolgáltatás primitív kell. # H
+97. A csatorna használata az összeköttetés nélküli rendszerekre jellemző # I
+98. Nyugtázott datagram az összeköttetés nélküli rendszerre jellemző. # I
+99. A datagram használata az összeköttetés alapú rendszerekre jellemző. # H
+100. Datagram alapú összeköttetés esetében bonyolult a szolgáltatás működésének biztosítása. # I
+101. Datagramm alapú összeköttetés esetében bonyolult a szolgáltatás minőségének a biztosítása. # I
+102. Az NRZ-I kódolás alapja az NRZ-L jel. # H
+103. Az NRZ-I kódolás alapja az NRZ-M jel. # I
+104. Az NRZ-I kódolást az USB szabvány használja. # I
+105. Az NRZ-L értéke csak 1-ről 0-ra történő jelváltás után változik meg. # H
+106. Az NRZ-L értéke minden jelváltás után megváltozik. # I
+107. Az NRZ-M értéke csak 1-ről 0-ra történő jelváltás után változik meg. # H
+108. Az Ethernet hálózat NRZ-L kódolást használ. # I
+109. Az Ethernet hálózat NRZ-S kódolást használ # H
+110. Az NRZ-M értéke minden jelváltás után megváltozik. # H
+111. Az NRZ-M kódolást az USB szabvány használja. # H
+112. Az NRZ-S kódolást az USB szabvány használja. # H
+113. Az NRZ-S értéke minden jelváltás után megváltozik. # H
+114. Az NRZ-S értéke csak 1-ről 0-ra történő jelváltás után változik meg. # H
+115. Az NR2-S kódolást a USB szabvány használja. # H
+116. A CAT5e szabvány maximális sebessége 4 érpáron 100 Mb/s. # H
+117. A CAT5e szabvány maximális sebessége 4 érpáron 1000Mb/s. # I
+118. A CAT5e szabvány maximális sebessége 2 érpáron 100 Mb/s # I
+119. A CAT5e szabvány maximális sávszélessége 100 MHz. # I
+120. A CAT6 szabvány maximális sávszélessége 100 méteren 250MHz. # I
+121. A CAT6 szabvány maximális sávszélessége 100 méteren 500Mhz. # H
+122. A Cat6 szabvány maximális sebessége 100m-en 1Gbit. # I
+123. A CAT6 szabvány maximális sebessége 100 méteren 10 Gb/s. # H
+124. A CAT6A szabvány maximális sávszélessége 100 méteren 500MHz. # I
+125. A CAT6A szabvány maximális sebessége 100 méteren 1Gb/s. # H
+126. A CAT7 szabvány maximális sebessége 100 méteren 1Gb/s. # H
+127. A CAT7 szabvány maximális sávszélessége 100 méteren 750 MHz. # H
+128. A MIMO védettsége gyenge a visszaverődésekkel szemben. # H
+129. A MIMO párhuzamos csatornákkal növeli a sebességet. # I
+130. A MIMO tulajdonéppen az SDMA egyfajta kiterjesztése. # I
+131. Az 1-perzisztens CSMA nem vizsgálja a csatorna foglaltságát. # H
+132. A p-perzisztens CSMA szabad csatorna esetén azonnal adni kezd. # H
+133. A nem perzisztens CSMA szabad csatorna esetén azonnal adni kezd. # I
+134. A CSMA/CA protokoll ütközés esetén azonnal ismétli az átadást. # H
+135. Vivőjel érzékelés nélkül nem dönthető el, hogy egy csatorna foglalt-e. # I
+136. A QSS és a WPS kényelmi funkciókat szolgál. # I
+137. A QSS és a WPS növeli a rendszer védettségét. # H
+138. A 256-QAM egyetlen jelváltozással 16 bitet kódol. # H
+139. A 256-QAM egyetlen jelváltozással 8 bitet kódol. # I
+140. RNC jelentése „Radio Network Controller”. # I
+141. A leghosszabb rádióhullámok képesek követni a föld görbületét. # I
+142. A rövidhullám visszaverődik az ionoszféráról. # I
+143. A rövidhullámok képesek követni a föld görbületét. # H
+144. A mikrohullám visszaverődik az ionoszféráról. # H
+145. A mikrohullámok jól irányíthatóak. # I
+146. Minél kisebb a hullámhossz, annál jobb a tárgyakon való áthaladás. # H
+147. A WEP titkosítás b/g/n szabványoknak egyaránt része. # H
+148. A WEP az ”n” szabványnak már nem része. # I
+149. A WEP-es védelemre a kéretlen látogatók veszélyt jelentenek. # I
+150. A WEP-es védelemre a kéretlen látogatók valós veszélyt jelentenek. # I
+151. Az AES a WEP2 védelem algoritmusa. # H
+152. Az AES a WPA2 védelem algoritmusa. # I
+153. Az AES a WPA védelem algoritmusa # H
+154. A TKIP a WPA védelem algoritmusa. # I
+155. A DSSS 11db csatornája részben sem fedi át egymást. # H
+156. A DSSS 11db egymást részben átfedő csatornát használ. # I
+157. A Manchester kódot NOR művelettel képezzük. # H
+158. A Manchester kódot XOR művelettel képezzük. # I
+159. A klasszikus Manchester kódolás hatékonyabb mint a 8B/10B kódolás. # H
+160. A kitöltés mező hossza minden esetben több mint 0 bájt. # H
+161. A kitöltés mező célja a minimális kerethossz elérésének biztositása. # I
+162. A típus/hossz mező típust jelöl, ha tartalma kisebb egyenlő, mint 0x0600. # H
+163. A típus/hossz mező típust jelöl, ha tartalma nagyobb, mint 0x0600. # I
+164. A Hamming-távolságot egy NOR művelettel számíthatjuk ki. # H
+165. A Hamming-távolságot egy XOR művelettel számíthatjuk ki. # I
+166. Páros paritás esetén a paritásbit 1, ha a kódszóban az 1-esek száma páratlan. # I
+167. Páros paritás esetén a paritásbit 0, ha a kódszóban az 1 -esek száma páros. # I
+168. Páros paritás esetén a paritásbit 0, ha a kódszóban az 1-esek száma páratlan. # H
+169. Páratlan paritás esetén a paritásbit 1, ha a kódszóban az 1-esek száma páros. # I
+170. Páratlan paritás esetén a paritásbit 0, ha a kódszóban az 1-esek száma páratlan # I
+171. Az LLC alréteg felel a csatorna kiosztásáért. # H
+172. Az LLC alréteg felel a keretek épségéért. # I
+173. Az IEEE 802.3 szabványba a „Base” szó jelentése „alapvető”. # H
+174. A 802.3 szabvány a vezeték nélküli LAN-okra vonatkozik. # H
+175. AZ IEEE802.11 adatkeretében a keretvezérlés 11 almezőből áll. # I
+176. Az IEEE802.11 szabvány a CSMA/CA protokollt használja. # I
+177. Az IEEE802.11 három féle keretosztállyal dolgozik. # I
+178. A 802.11 szabvány az Ethernet-re vonatkozik. # H
+179. A 10 gigabites ethernet 5 különböző jelszintet használ. # H
+180. A gigabites ethernet 16 különböző jelszintet használ # H
+181. A 10 gigabites Ethernet nem használja a CSMA/CD protokollt. # I
+182. A 10 gigabites Ethernet használja a CSMA/CD protokollt. # H
+183. A 10 gigabites Ethernet a Half- és a Full-Duplex üzemmódot is támogatja. # H
+184. A réz alapú 10 gigabites Ethernet a 64B/66B kódolást használja. # H
+185. Az optikai 10 gigabites Ethernet a 64B/66B kódolást használja # I
+186. Az optikai kábelek a 64B/66B kódolást használják. # I
+187. Jellemzően kis távolságok áthidalására használnak optikai kábeleket # H
+188. Az ethernet fejléc 2 bájttal hosszabb, mint a VLAN fejléc. # H
+189. Virtuális LAN (Virtual LAN - VLAN) IEEE kódja a 802.10. (+IEEE802.1Q) # I
+190. Virtuális áramkör alapú összeköttetés esetében egyszerű a torlódáskezelés. # I
+191. Az LSOH/LSZH a kábel mechanikai terhelésének jelzése. # H
+192. Az LSOH/LSZH a kábel mechanikai tesztelésének jelzése. # H
+193. Az IPv4-ben a broadcast cím mindig 0-ra végződik. # H
+194. Az IPv4-ben a broadcast cím mindig 1-re végződik. # H
+195. Az IPv4-ben egy hálózat címe mindig 0-ra végződik. # H
+196. Az IPv4 datagram maximális mérete 65535 bájt. # I
+197. Az IPv4 datagramm maximális mérete kevesebb, mint 65535 bájt. # H
+198. A CIDR az IPv4 merev szabályait oldja fel. # I
+199. A CIDR az IPv4-ben rugalmas hoszt kiosztást tesz lehetővé. # I
+200. Az IPv4 hálózati maszkban a 0-ás értéket semmiképpen sem követhet 1- es érték. # I
+201. A CIDR és a NAT is hozzájárult az IPv4 címek elfogyásának késleltetéséhez # I
+202. A CIDR és a NAT is hozzájárult az IPv6 gyorsabb bevezetéséhez. # H
+203. Az IPv4 „A” osztály kevesebb hosztot tartalmaz mint a „C” osztály. # H
+204. Az IPv4 fejrész tartalmaz ellenőrző összeget. # I
+205. Az IPv4 fejrész maximális fix hossza 20 bájt. (minimum 20 bájt) # H
+206. Az IPv4 fejrész teljes hossz mezője 16 bites. # I
+207. Az IPv6 fejrészben az ugráskorlát értéke csak ugrásonként csökken 1-el. # I
+208. Az IPv6 fejrész több mezőt tartalmaz mint az IPv4 fejrész. # H
+209. Az IPv6 adatmező maximális mérete 65535 bájt # I
+210. AZ IPv6 fejrész maximális hossza kétszerese az IPv4 fejrész maximális hosszának. # I
+211. Az IPv6 címzési rendszere tartalmazza az IPv4-ben megismert osztályokat. # H
+212. Az NDP az Ipv6 protokoll része (NDP-IPV6) # I
+213. Az ARP az IPv6 protokoll része. (ARP -IPV4) # H
+214. A karakterszámlálás egy sérülésvédett keretezési megoldás. # H
+215. A keret előtag 7 bájt hosszú. # H
+216. A keret előtag 8 bájt hosszú. # I
+217. A keret előtag fő funkciója az időszinkronizáció. # I
+218. A keret előtag fő funkciója az időszinkronizáció. # I
+219. Vezérjeles gyűrű esetén minden hoszt azonos prioritású. # I
+220. A vezérjeles gyűrű esetén a hostok csak a következő hostig juttatják el a keretet. # I
+221. A vezérjeles gyűrű ütközésmentes. # I
+222. A vezérjeles gyűrű nem ütközésmentes. # H
+223. Vezérjeles gyűrű esetén az elküldött keret több kört is megtehet # H
+224. Vezérjeles algoritmus esetén nem léphet fel túlcsordulás, adatvesztés. # I
+225. A vezérjeles vödör algoritmus esetén az adatok csak azonos sebességgel távozhatnak. # H
+226. Lyukas vödör algoritmus esetén nem léphet fel túlcsordulás, adatvesztés. # H
+227. Az LDPC kódolás matematikailag polinomokra épül. # H
+228. Az LDPC kódolás esetén a kódolt üzenet hosszabb az eredeti üzenetnél. # I
+229. Az LDPC kódolásnak nem jelentős a szoftveres erőforrásigénye # H
+230. Az LDPC kódolásnak jelentős a szoftveres erőforrás igénye. # I
+231. LDPC kódolás használatos például a DVB-T2 műholdas rendszerben. # I
+232. LDPC kódolás használatos például a DVB-12 műholdas rendszerben. # I
+233. A Reed-Solomon kódolás matematikailag polinomokra épül. # I
+234. A 8B/10B kódolás 8 bitenként legalább 3 szintváltást tartalmaz. # H
+235. ALOHA rendszerek esetén a nyugtázó csatornákban is lehet ütközés. # H
+236. ALOHA rendszerek esetén a nyugtázó csatornában nem fordulhat elő ütközés. # I
+237. Az ALOHA használ nyugtázást. # I
+238. ALOHA rendszerek esetén a nyugtázó csatornákban is lehet ütközés. # H
+239. A szolgáltatás műveletek halmaza, amelyek a ”mit” kérdéssel kapcsolatosak. # I
+240. A forgalomszabályozás 2 hoszt között értelmezhető fogalom. # I
+241. A forgalomszabályzás a hálózat egészére értelmezhető fogalom # H
+242. Az RP illetve az RR a kábel égésekor felszabaduló gázokra utal. # H
+243. A RP illetve az RR a kábel rágcsálók elleni védelmét jelenti. # I
+244. A Nyquist tétel az ideális átviteli csatornával kapcsolatos. # I
+245. A Nyquist tétel a zajos átviteli csatornával kapcsolatos. # H
+246. AZ IT-ban használt IEC mértékegység alapja a tízes számrendszer. # H
+247. AZ IT-ban használt IEC mértékegység alapja a kettes számrendszer. # I
+248. MODEM: a kifejezés a „modulátor” és „demodulátor” szavakból származik, és olyan berendezést jelent, ami egy vivőhullám modulációjával az analóg jelet digitálissá alakítja. # H
+249. A modem célja, hogy az analóg adatot digitális módon átvihetővé tegye. # H
+250. A modem célja, hogy a digitális adatot analóg módon átvihetővé tegye. # I
+251. A QoS-t hat paraméterrel határozzuk meg. # H
+252. A Shannon tétel az ideális átviteli csatornával kapcsolatos. # H
+253. A Shannon tétel a zajos átviteli csatornával kapcsolatos. # I
+254. Vezetékes átvitel esetén célszerű a hibajavítás. # H
+255. Vezetékes átvitel esetén célszerű a hibadetektálás és az adatismétlés. # I
+256. A DNS időben sokkal az URL után jelent meg. # H
+257. A DNS időben sokkal az URL előtt jelent meg. # I
+258. A DNS névhierarchia tetején a gyökérnévszerverek darabszáma folyamatosan növekszik. # H
+259. Rekurzív kérés esetén a DNS szerver teljes mértékben megválaszolja a kérést vagy hibajelzsét ad. # I
+260. Az URL tulajdonképpen a DNS szolgáltatásait teszi a felhasználó számára még produktívabbá. # I
+261. A „T-568A” és „T-568B” bekötése 50%-ba megegyezik. # I
+262. A "T-568A" és "T-568B" bekötése több mint 50%-ban eltérő. # H
+263. A Layer 2 Switch képes az egyes VLAN-ok közötti forgalomirányításra. # H
+264. A Layer 2 switch nem képes az egyes VLAN-ok közötti forgalomirányításra. # I
+265. Egy Switch-ekkel összekapcsolt hálózatban nem fordulhat elő ütközés. # I
+266. Egy Switch-ekkel összekapcsolt hálózatban nem fordulhat elő keret ütközés # I
+267. A switch IP címek segítségével dolgozik # H
+268. A Switch MAC címek segítségével dolgozik # I
+269. A switcheknek nem kell ismerni a hálózati réteg protokollját a routernek viszont ismernie kell azt. # I
+270. A Switch összeállítja a csomagot a keretekből és a csomagban lévő IP címet használja a cél hoszt meghatározásásra. # H
+271. A MAC címek nem tartalmaznak lokalizációs információkat. # I
+272. A MAC alréteg felel a keretek épségéért. # H
+273. A Bridge MAC címek segítségével dolgozik. # I
+274. A Bridge IP címek segítségével dolgozik # H
+275. Egy geoszinkron műholddal fix parabolaantennával kommunikálhatunk. # I
+276. Egy geostacionárius műholdddal fix parabolaantennával kommunikálhatunk. # I
+277. A TCP fejrészben kötelező az ellenőrző összeg használata. # I
+278. A TCP összeköttetés-alapú protokoll. # I
+279. TCP protokoll az operációs rendszer része # I
+280. A NEXT közelvégi áthallást jelent. # I
+281. A NEXT távolvégi áthallást jelent. # H
+282. A PSNEXT a közelvégi áthallás összesített értékét jelenti. # I
+283. A PSNEXT az azonos szintű távolvégi áthallást jelenti # H
+284. Az MSC és a GMSC biztosítja a mobilhálózat és az internet közötti kapcsolatot. # H
+285. Az MSC és a GMSC biztosítja a mobilhálózat és az internet közötti kapcsolatot.  # H
+286. Az átlátszó darabolás esetén a csomagok egyesítése csak a cél hosztnál történik meg. # H
+287. Átlátszó darabolás esetén a csomagok egyesítése minden érintett hálózat elhagyásakor megtörténik. # I
+288. A nem átlátszó darabolás esetén a darabolás az egyes hálózatokban függetlenül történik # H
+289. A kapcsolatállapot alapú útválasztás a távolságvektor alapú útválasztást váltotta fel. # I
+290. A távolságvektor alapú útválasztás a kapcsolatállapot alapú útválasztást váltotta fel. # H
+291. Az SSID azonosító egy maximum 32 karakter hosszú szabad választott név. # I
+292. Az Auto Negotation az ütközések elkerülésének egyik megoldása. # H
+293. Az Auto Negotation automatikus sebesség és duplexitás egyeztetést jelent. # I
+294. A karakterszámlálás nem igényel egyedi fejlécet. # I
+295. A torlódáskezelés a hálózat egészére értelmezhető fogalom. # I
+296. A Congestion jelentése: Torlódás # I
+297. A Congestion jelentése: Forgalomszabályozás # H
+298. Az alagút átvitel olyan módon áll össze két hálózat között, hogy azok a köztük lévő hálózat(ok) hosztjait nem is érhetik el. # I
+299. Az adaptív forgalomirányító eljárások alkalmazkodnak a hálózati forgalomhoz és a topológiához. # I
+300. A CSMA/CD ütközés érzékelésekor azonnal megszakítja az adást. # I
+301. A CSMA/CD protokoll az adás megkezdése után is figyeli a csatornát. # I
+302. Az IEEE 802.11 szabvány CSMA/CD protokollt használja. # H
+303. Az IEEE802.11 adatkeretében két cím szerepel. # H
+304. A RIP egy távolságvektor alapú IGP protokoll. # I
+305. Az RIP fejrészében található sürgősségi mutató # H
+306. a TCP fejrészében található sürgősségi mutató # I
+307. Az RTP fejrészében található a sürgősségi mutató # H
+308. Az RTP fejrészében nem található sürgősségi mutató. # I
+309. Az RTP protokoll az UDP protokollra épül. # I
+310. Az RTP protokoll az operációs rendszer része. # H
+311. Az RTP protokoll nem az operációs rendszer része. # I
+312. A decimális alapú mértékegység rendszer jellemzően háttértár méretre utal. # I
+313. A decimális alapú mértékegység rendszer jellemzően memóriaméretre utal. # H
+314. A NAT címfordítás a LAN és a WAN hálózat között történik # I
+315. A CSMA vezeték nélküli ősszeköttetésben hatékonyabb, mint vezetékesben. # H
+316. Az 1000Base-T-ben a T a sodrott érpárt jelöli # I
+317. Az 1000Base-T maximális átviteli sebessége 1Gbit # I
+318. Az 1000Base-T maximális átviteli sebessége 100Mbit # H
+319. Az STP támadása esetén az aktuális gyökér MAC címénél kisebb cím hálózatba juttatása a cél. # I
+320. Az FTP egy megbízható protkoll, garantálja az átvitt adatok megérkezését. # I
+321. Az FTP egy nem megbízható protokoll, nem garantálja az átvitt adatok megérkezését. # H
+322. Az OFDM a nagy sebességű jelfolyamot több kisebb sebességűre bontja. # I
