@@ -111,7 +111,7 @@
 111. Az NRZ-M kódolást az USB szabvány használja. # H
 112. Az NRZ-S kódolást az USB szabvány használja. # H
 113. Az NRZ-S értéke minden jelváltás után megváltozik. # H
-114. Az NRZ-S értéke csak 1-ről 0-ra történő jelváltás után változik meg. # H
+114. Az NRZ-S értéke csak 1-ről 0-ra történő jelváltás után változik meg. # I
 115. Az NR2-S kódolást a USB szabvány használja. # H
 116. A CAT5e szabvány maximális sebessége 4 érpáron 100 Mb/s. # H
 117. A CAT5e szabvány maximális sebessége 4 érpáron 1000Mb/s. # I
